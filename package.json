@@ -1,0 +1,23 @@
+{
+  "name": "hello-files",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eoinmoney78/hello-files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eoinmoney78/hello-files/issues"
+  },
+  "homepage": "https://github.com/eoinmoney78/hello-files#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
